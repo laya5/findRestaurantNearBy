@@ -16,6 +16,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 /*
+
+i have not hidden the mongo uris atlas just for reference
 for finding restaurants near you make a post request to this url
 
 http://localhost:3000/api/getRes/nearMe
